@@ -1,5 +1,36 @@
 {
   "movies": [
+    {
+      "id": 1,
+      "title": "Brahmastra",
+      "posterPath": "https://static.toiimg.com/thumb/msid-94303185,imgsize-88182,width-800,height-600,resizemode-75/94303185.jpg"
+    },
+    {
+      "id": 2,
+      "title": "Avatar",
+      "posterPath":"../images/avatar.jpeg"
+
+    },
+    {
+      "id": 3,
+      "title": "Radhe Shyam",
+      "posterPath": "../images/radheshyam.jpeg"
+    },
+    {
+      "id": 4,
+      "title": "3 Idiot",
+      "posterPath": "../images/3idiots.jpeg"
+    },
+    {
+      "id": 5,
+      "title": "Rockstar",
+      "posterPath": "../images/rockstar.jpeg"
+    },
+    {
+      "id": 6,
+      "title": "Sita Ramam",
+      "posterPath": "../images/sitaramam.jpeg"
+    }
   ],
   "favourites": [
   ]
